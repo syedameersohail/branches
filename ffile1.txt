@@ -1,1 +1,2 @@
 this is feature branch file line1
+this is feature branch file line2
