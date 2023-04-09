@@ -1,1 +1,2 @@
 line 1 added m1
+line 2 added m2
